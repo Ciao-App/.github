@@ -1,5 +1,4 @@
-## <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hi there, Welcome to Ciao!
-Attached below is all the information contained/ used to build this app from braindumps to wireframes! Check it out! 
+## <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Ciao!
 
 ### 📚 Description of the Project:
 Have you ever asked a friend for some recommendations on a place/ city you're about to visit but when the trip comes, you forget what the recommendation was? Or a time when you've visited a place based on popular Yelp reviews but then the place wasn't as good as you expected?
